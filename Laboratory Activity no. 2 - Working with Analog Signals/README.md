@@ -1,5 +1,4 @@
-# Laboratory Activity 2 – Analog Signals and PWM Control
-
+# Laboratory Activity 2 – Analog Signals
 ## Objectives
 - Discuss and implement analog signals using Arduino  
 - Understand analog-to-digital conversion using the `map()` function  
