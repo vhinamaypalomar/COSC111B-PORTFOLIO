@@ -1,4 +1,4 @@
-# Laboratory Activity 1 – Digital Signal Control Using Arduino
+# Laboratory Activity 1 – Working with Digital Signals
 
 ## Objectives
 - Review Arduino as a device for IoT systems implementation  
