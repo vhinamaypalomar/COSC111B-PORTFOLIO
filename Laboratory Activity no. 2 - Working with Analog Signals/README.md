@@ -1,7 +1,8 @@
 # Laboratory Activity 2 – Working with Analog Signals
+
 ## Objectives
-- Discuss and implement analog signals using Arduino  
-- Understand analog-to-digital conversion using the `map()` function  
+- Discuss analog signals and its implemention in a Arduino circuit. 
+- Understrand analog to digital signal conversion using the map() function.
 
 ## Description
 This activity demonstrates how Arduino reads analog signals from a potentiometer and converts them into PWM signals to control LED brightness.
