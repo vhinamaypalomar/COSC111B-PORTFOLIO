@@ -1,7 +1,7 @@
 # COSC111B-PORTFOLIO
 
 ## Overview
-This repository contains the laboratory activities and practical examinations completed for **CS Elective 3 (Internet of Things)**. The activities demonstrate the use of Arduino, sensor integration, serial communication, Python programming, and API-based control systems for IoT applications.
+This repository contains the laboratory activities and practical examinations completed for CS Elective 3 (Internet of Things). The activities demonstrate the use of Arduino, sensor integration, serial communication, Python programming, and API-based control systems for IoT applications.
 
 The following laboratory activities and practical examinations and their objectives are presented as follows:
 
